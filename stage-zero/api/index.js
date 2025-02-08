@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 
 // API Endpoint
-app.get("/api", (req, res) => {
+app.get("/", (req, res) => {
   res.status(200).json({
     email: "joyibe5@gmail.com", 
     current_datetime: new Date().toISOString(), 
