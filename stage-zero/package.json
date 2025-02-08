@@ -6,7 +6,7 @@
     "start": "node api/index.js"
   },
   "keywords": [],
-  "author": "Joy Ibe",
+  "author": "Joy",
   "license": "ISC",
   "description": "",
   "dependencies": {
