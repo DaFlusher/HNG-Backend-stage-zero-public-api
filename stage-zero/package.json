@@ -1,11 +1,8 @@
 {
   "name": "stage-zero-public-api",
   "version": "1.0.0",
-  "scripts": {
-    "start": "node api/index.js"
-  },
   "keywords": [],
-  "author": "",
+  "author": "Joy Ibe",
   "license": "ISC",
   "description": "",
   "dependencies": {
